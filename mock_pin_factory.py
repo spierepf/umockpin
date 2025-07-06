@@ -1,4 +1,4 @@
-from mock_pin import MockPin
+from .mock_pin import MockPin
 
 
 class MockPinFactory:
