@@ -1,8 +1,8 @@
 {
   "urls": [
-    ["umockpin/mock_pin.py", "github:spierepf/mock_pin.py"],
-    ["umockpin/mock_pin_factory.py", "github:spierepf/mock_pin_factory.py"],
-    ["umockpin/mock_pin_net.py", "github:spierepf/mock_pin_net.py"],
+    ["umockpin/mock_pin.py", "github:spierepf/umockpin/mock_pin.py"],
+    ["umockpin/mock_pin_factory.py", "github:spierepf/umockpin/mock_pin_factory.py"],
+    ["umockpin/mock_pin_net.py", "github:spierepf/umockpin/mock_pin_net.py"],
   ],
   "deps": [
     ["github:spierepf/mip_packages/upatterns", "master"],
